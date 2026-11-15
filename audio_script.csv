@@ -1,0 +1,26 @@
+wav,text,language,category,urgency
+clips/01_en_fraud.wav,My account was hacked and money was transferred without my permission,English,Fraud / Unauthorised transaction,Critical
+clips/02_en_billing.wav,I was charged twice for my last bill. 1200 rupees extra,English,Billing / Payment,High
+clips/03_en_delivery.wav,My parcel has not been delivered for five days. Order number 48213,English,Delivery / Order,High
+clips/04_en_network.wav,Internet is not working in my area since morning,English,Network / Service,Medium
+clips/05_en_safety.wav,The mixer grinder is giving sparks and smoke,English,Safety hazard,Critical
+clips/06_en_refund.wav,I returned the shoes two weeks ago and I still have not got my refund,English,Refund / Return,High
+clips/07_en_staff.wav,The customer care agent was very rude to me on the phone,English,Staff behaviour,Medium
+clips/08_en_login.wav,I cannot log in to my account and the password reset is not working,English,Account / Login,Medium
+clips/09_en_defect.wav,The phone I bought stopped working after two days,English,Product defect,Medium
+clips/10_en_feedback.wav,I have a suggestion please add a dark mode to the app,English,Other,Low
+clips/11_hi_fraud.wav,मेरे अकाउंट से बिना अनुमति पैसे कट गए यह धोखाधड़ी है,Hindi,Fraud / Unauthorised transaction,Critical
+clips/12_hi_billing.wav,बिल में ज्यादा चार्ज लगा है तीन सौ रुपये कृपया ठीक करें,Hindi,Billing / Payment,Medium
+clips/13_hi_delivery.wav,मेरा पार्सल तीन दिन से नहीं आया कृपया जल्दी भेजिए,Hindi,Delivery / Order,High
+clips/14_hi_safety.wav,मेरे फ्रिज से चिंगारी निकल रही है और धुआं आ रहा है,Hindi,Safety hazard,Critical
+clips/15_hi_network.wav,इंटरनेट बहुत धीमा चल रहा है मैं बहुत परेशान हूं,Hindi,Network / Service,Medium
+clips/16_hl_delivery.wav,Mera order teen din se nahi aaya order number 48213 bahut deri ho gayi,Hinglish,Delivery / Order,High
+clips/17_hl_refund.wav,Bhai mera paisa wapas kab milega pandrah din ho gaye,Hinglish,Refund / Return,High
+clips/18_hl_network.wav,Net bahut slow chal raha hai main bahut pareshan ho gaya hoon,Hinglish,Network / Service,High
+clips/19_hl_fraud.wav,Mere account se kisi ne paise nikal liye mujhe pata nahi kaun hai,Hinglish,Fraud / Unauthorised transaction,Critical
+clips/20_hl_staff.wav,Customer care wale ne meri baat hi nahi suni,Hinglish,Staff behaviour,Medium
+clips/21_kn_delivery.wav,ನನ್ನ ಆರ್ಡರ್ ಮೂರು ದಿನಗಳಿಂದ ಬಂದಿಲ್ಲ,Kannada,Delivery / Order,High
+clips/22_kn_billing.wav,ನನ್ನ ಬಿಲ್ ತುಂಬಾ ಜಾಸ್ತಿ ಬಂದಿದೆ,Kannada,Billing / Payment,Medium
+clips/23_kn_fraud.wav,ನನ್ನ ಖಾತೆಯಲ್ಲಿ ಮೋಸ ನಡೆದಿದೆ,Kannada,Fraud / Unauthorised transaction,Critical
+clips/24_kn_network.wav,ಇಂಟರ್ನೆಟ್ ಐದು ದಿನದಿಂದ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ,Kannada,Network / Service,High
+clips/25_kn_safety.wav,ನನ್ನ ಮಿಕ್ಸಿಯಿಂದ ಹೊಗೆ ಬರುತ್ತಿದೆ,Kannada,Safety hazard,Critical

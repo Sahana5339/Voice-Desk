@@ -1,0 +1,23 @@
+
+Group         Category   Urgency    Both    N
+ALL                70%       70%     63%   43
+English            71%       71%     64%   28
+Hindi              75%       50%     50%    4
+Hinglish           67%       67%     67%    6
+Kannada            60%       80%     60%    5
+MISS ('English', "I ordered a phone last week and it still hasn't been dispatched, nobody is picking my calls", 'Delivery / Order/Medium', 'Delivery / Order/High')
+MISS ('English', 'I got a call from someone claiming to be from your bank asking for my OTP and I think my card details are compromised', 'Other/Medium', 'Fraud / Unauthorised transaction/Critical')
+MISS ('English', 'Your delivery guy was very rude and threw the parcel at my door', 'Delivery / Order/Medium', 'Staff behaviour/Medium')
+MISS ('English', 'The price shocked me why is the subscription so expensive', 'Safety hazard/Critical', 'Billing / Payment/Medium')
+MISS ('English', 'My laptop battery is swelling and getting very hot while charging', 'Other/Medium', 'Safety hazard/Critical')
+MISS ('English', 'Someone is using my credit card I see 3 transactions I never did total 24000 rupees', 'Other/High', 'Fraud / Unauthorised transaction/Critical')
+MISS ('English', 'i was charge 3 times for 1 order plz refnd', 'Billing / Payment/Medium', 'Billing / Payment/High')
+MISS ('English', 'Is there a way to change my registered mobile number', 'Other/Medium', 'Account / Login/Medium')
+MISS ('English', 'Your ad said fire sale 50 percent off but I was charged full price', 'Safety hazard/Critical', 'Billing / Payment/Medium')
+MISS ('English', 'My order was cancelled without my permission', 'Fraud / Unauthorised transaction/Critical', 'Delivery / Order/Medium')
+MISS ('Hindi', 'मेरा फोन खराब हो गया है दो हफ्ते पहले खरीदा था', 'Product defect/High', 'Product defect/Medium')
+MISS ('Hindi', 'किसी ने मेरे नाम से लोन ले लिया है मुझे कुछ पता नहीं', 'Other/Medium', 'Fraud / Unauthorised transaction/Critical')
+MISS ('Hinglish', 'Mere account se unknown transaction hua hai 4500 ka', 'Other/Medium', 'Fraud / Unauthorised transaction/Critical')
+MISS ('Hinglish', 'Gas ki smell aa rahi hai kitchen mein cylinder leak ho raha hai', 'Other/Medium', 'Safety hazard/Critical')
+MISS ('Kannada', 'ನನ್ನ ಫೋನ್ ಕೆಟ್ಟು ಹೋಗಿದೆ', 'Other/Medium', 'Product defect/Medium')
+MISS ('Kannada', 'ಯಾರೋ ನನ್ನ ಖಾತೆಯಿಂದ ಹಣ ತೆಗೆದಿದ್ದಾರೆ', 'Other/Medium', 'Fraud / Unauthorised transaction/Critical')

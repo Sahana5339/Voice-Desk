@@ -1,0 +1,7 @@
+__pycache__/
+*.wav
+.env
+.streamlit/secrets.toml
+clips/
+probe_*.wav
+.pytest_cache/
